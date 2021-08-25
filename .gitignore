@@ -1,0 +1,11 @@
+env/
+.vscode/
+**/__pycache__
+config.ini
+dron_server.pem
+postgres_data/
+client_secret.json
+credentials.json
+service_client_secret.json
+storage.json
+token files/
